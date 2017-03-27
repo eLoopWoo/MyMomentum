@@ -5,6 +5,7 @@ ball* p2;
 ball* p3;
 ball* arr[100];
 
+
 void Elastic() {
 	//m1*v1+m2*v2=m1*u1+m2*u2 
 	//v2-v1 = -(u2-u1)
